@@ -16,8 +16,8 @@
 
 **直播间直达：**
 
-- [B站主页](https://space.bilibili.com/494408488)
-- [斗鱼主页](https://v.douyu.com/author/aBADak3DO7Xm)
+- [B站主页](https://live.bilibili.com/22855472)
+- [斗鱼主页](https://www.douyu.com/9865870)
 
 ## 看牛叔直播时还在码字？来看看如何开启语音交流吧
 
