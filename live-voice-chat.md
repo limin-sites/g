@@ -1,23 +1,42 @@
 # 关于游戏直播
 
-以后会定期更新直播计划，包括PC和XBOX主机游戏。
+以后会定期更新直播计划，包括PC和XBOX主机游戏。在斗鱼会一直开着直播，因为会自动生成录播回放，不需要上传。有条件的情况下B站直播也会开着。
+因为是素人业余直播，没有太多时间去剪辑视频和上传视频，所以选择了斗鱼，斗鱼自动录的视频质量比较糊，只能凑合着用了。小破站权限都不给开，有点坑。
 
 ## 直播预告
 
 **7月至8月直播计划：**
 
-- [x] xbox xgpu pc 嗜血代码 直播中 [Steam商店页面](https://store.steampowered.com/app/678960/CODE_VEIN/)
+- [x] xbox xgpu pc 嗜血代码 已通关 [Steam商店页面](https://store.steampowered.com/app/678960/CODE_VEIN/)
+  
+  **全流程直播回放(下面只放了三个最难的BOSS链接)：**
+  
+    白狼狂战士boss 过关
+    https://v.douyu.com/show/wLjGvLPpY2pvmO90
+
+    嗜血代码最终BOSS，他妹的搞了我一个多小时:
+    https://v.douyu.com/show/NVm0WKjgR4DMJeBP?ap=1
+
+    嗜血代码最难BOSS，他妹的搞了我一个多小时:
+    https://v.douyu.com/show/EO0XvNPz1wRMDrBd?ap=1
+
+
 - [ ] xbox xgpu  pc  血根 直播中 [Steam商店页面](https://store.steampowered.com/app/820540/Bloodroots/)
 - [ ] xbox xgpu  pc omon [Steam商店页面](https://store.steampowered.com/app/969760/Omno/)
 - [ ] xbox xgpu  pc 上行战场 [Steam商店页面](https://store.steampowered.com/app/979690/__The_Ascent/)
 - [ ] 封测游戏，巨击大乱斗等 [Steam商店页面](https://store.steampowered.com/app/1546400/GigaBash/)
 
-还有更多封测试补充整理中。
+还有更多封测游戏近期也会直播：[封测游戏直播计划](c/g/notes/21-5.md),包括以下游戏：
+光环无限、GigaBash 巨击大乱斗、2D动作 失魂者、暗黑类ARPG Batora: Lost Haven 、吃鸡射击游戏The Cycle 风暴奇侠、汤姆克兰西 XDefiant、阿凡达：潘多拉边境、Relic Hunters Legend1, Wardens Rising等，还有更多的封游戏持续补充更新中。
 
 **直播间直达：**
 
 - [B站主页](https://live.bilibili.com/22855472)
 - [斗鱼主页](https://www.douyu.com/9865870)
+
+游戏直播回放合集：
+
+整理中
 
 ## 看牛叔直播时还在码字？来看看如何开启语音交流吧
 
