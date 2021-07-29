@@ -21,13 +21,15 @@
     https://v.douyu.com/show/EO0XvNPz1wRMDrBd?ap=1
 
 
-- [ ] xbox xgpu  pc  血根 直播中 [Steam商店页面](https://store.steampowered.com/app/820540/Bloodroots/)
-- [ ] xbox xgpu  pc omon [Steam商店页面](https://store.steampowered.com/app/969760/Omno/)
-- [ ] xbox xgpu  pc 上行战场 [Steam商店页面](https://store.steampowered.com/app/979690/__The_Ascent/)
-- [ ] 封测游戏，巨击大乱斗等 [Steam商店页面](https://store.steampowered.com/app/1546400/GigaBash/)
+- [x] xbox xgpu  pc  血根 已通关 [Steam商店页面](https://store.steampowered.com/app/820540/Bloodroots/)
+  最终BOSS:  https://v.douyu.com/show/2V0JMVbbZnbMRY5k
+  
+- [ ] xbox xgpu  pc omon 进行中 [Steam商店页面](https://store.steampowered.com/app/969760/Omno/)
+- [ ] xbox xgpu  pc 上行战场 进行中 [Steam商店页面](https://store.steampowered.com/app/979690/__The_Ascent/)
+- [ ] 封测或公测游戏,光环无限、喋血复仇、PC神佑释放等.
 
-还有更多封测游戏近期也会直播：[封测游戏直播计划](c/g/notes/21-5.md),包括以下游戏：
-光环无限、GigaBash 巨击大乱斗、2D动作 失魂者、暗黑类ARPG Batora: Lost Haven 、吃鸡射击游戏The Cycle 风暴奇侠、汤姆克兰西 XDefiant、阿凡达：潘多拉边境、Relic Hunters Legend1, Wardens Rising等，还有更多的封游戏持续补充更新中。
+还有更多封测游戏近期也会直播：[封测列表](c/g/notes/21-5.md),包括以下游戏：
+光环无限、喋血复仇4 8月5日开始公测、2D动作 失魂者、GigaBash 巨击大乱斗、暗黑类ARPG Batora: Lost Haven 、汤姆克兰西 XDefiant、阿凡达：潘多拉边境、吃鸡射击游戏The Cycle 风暴奇侠、Relic Hunters Legend1, Wardens Rising等，还有更多的封游戏持续补充更新中。
 
 **直播间直达：**
 
