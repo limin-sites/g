@@ -4,7 +4,6 @@
 - [直播计划](c/g/live-voice-chat)
 - [原创内容](c/g/artilcles.md)
 - [关于本站](README.md)
-- [返回站点首页](index)
 
 
 - **私人空间**
