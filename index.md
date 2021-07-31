@@ -81,6 +81,7 @@ https://limin-sites.github.io/as/assets/my-img/weixin-qr.png
 - https://www.alphabetagamer.com/
 - https://steamcommunity.com/groups/alphabetagamer
 - https://www.alphabetagamer.com/category/console-games/
+- https://crossplaygames.com/platforms/xbox-one?filter=xboxOne
 
 ### 关注的游戏
 
