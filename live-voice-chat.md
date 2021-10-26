@@ -5,6 +5,29 @@
 
 ## 直播预告
 
+**9月至11月直播计划**
+
+- Xbox PC 西瓜皮-绯红结系
+近期:Steam新品节动作游戏和 绯红结系
+
+- Steam新品节动作游戏试玩。
+此次试玩游戏列表：
+Ultra Age、纪元:变异、碳酸危机、Aeterna Noctis、Astral Ascent、Blind Fate、Trifox、Xenrai
+
+1. Steam新品节动作游戏Demo试玩-科幻ARPG终极时代（Ultra Age）韩国ARPG游戏《Ultra Age》.
+试玩视频： https://www.bilibili.com/video/BV16P4y187Cd/
+1. Steam新品节动作游戏Demo试玩-赛朋博克横版动作纪元:变异。
+试玩视频：https://www.bilibili.com/video/BV1TQ4y1B73X/
+1. Steam新品节动作游戏Demo试玩-横版动作射击:碳酸危机
+试玩视频：https://www.bilibili.com/video/BV1FL411x7wa/
+1. Steam新品节动作游戏Demo试玩4-横版动作:Aeterna Noctis, 手残慎入.
+试玩视频：https://www.bilibili.com/video/BV1FU4y1w77Z/
+1. Steam新品节动作游戏Demo试玩5-Blind Fate: Edo no Yami-魂系横版动作
+。手残慎入.
+Steam新品节动作游戏Demo试玩5-Blind Fate: Edo no Yami-魂系横版动作
+。手残慎入. 我TM直接过不了BOSS，太难了。药都捡不上，感觉这游戏要被喷了，游戏素质是不错，但这设定太蛋疼了。
+试玩视频： https://v.douyu.com/show/X3JzMa305VlvPQro
+
 **7月至8月直播计划：**
 
 - [x] xbox xgpu pc 嗜血代码 已通关 [Steam商店页面](https://store.steampowered.com/app/678960/CODE_VEIN/)
@@ -25,11 +48,18 @@
   最终BOSS:  https://v.douyu.com/show/2V0JMVbbZnbMRY5k
   
 - [ ] xbox xgpu  pc omon 进行中 [Steam商店页面](https://store.steampowered.com/app/969760/Omno/)
+
+全流程攻略：https://www.bilibili.com/video/BV18M4y1T7go/
+
 - [ ] xbox xgpu  pc 上行战场 进行中 [Steam商店页面](https://store.steampowered.com/app/979690/__The_Ascent/)
 - [ ] 封测或公测游戏,光环无限、喋血复仇、PC神佑释放等.
+光环无限试玩视频：
 
 还有更多封测游戏近期也会直播：[封测列表](c/g/notes/21-5.md),包括以下游戏：
+
 光环无限、喋血复仇4 8月5日开始公测、2D动作 失魂者、GigaBash 巨击大乱斗、暗黑类ARPG Batora: Lost Haven 、汤姆克兰西 XDefiant、阿凡达：潘多拉边境、吃鸡射击游戏The Cycle 风暴奇侠、Relic Hunters Legend1, Wardens Rising等，还有更多的封游戏持续补充更新中。
+
+
 
 **直播间直达：**
 
